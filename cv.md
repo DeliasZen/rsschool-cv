@@ -57,9 +57,6 @@ function calculateYears(principal, interest, tax, desired) {
 * **SkillUp**
     - *Front-End Developer*
 
-* **ProCredit**
-    - *Account Manager*
-
 ## Languages
 * [English - A2 (B1 in process)](https://www.efset.org/cert/73jeb7)
 * Russian - native speaker
